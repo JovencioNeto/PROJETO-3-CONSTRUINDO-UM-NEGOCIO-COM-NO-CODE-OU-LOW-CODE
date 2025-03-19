@@ -6,6 +6,8 @@ Este projeto apresenta um protótipo de site desenvolvido com ferramentas No-Cod
 
 O objetivo do site é proporcionar aos clientes uma experiência prática e intuitiva, permitindo a visualização dos produtos disponíveis e facilitando o contato direto para negociações e compras.  
 
+O protótipo ainda está em desenvolvimento, então por favor tenha paciência pois algumas parte do site podem ainda estar em desenvolvimento.
+
 ## **Público-Alvo**  
 
 - **Faixa etária:** 18 a 50 anos  
